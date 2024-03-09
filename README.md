@@ -7,7 +7,6 @@ I study software engineering and management at the [University of Gothenburg](ht
 - 🌱 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about brewing [Boza](https://en.wikipedia.org/wiki/Boza).
 - 📫 How to reach me: [Discord](https://discord.com/users/809733042499092481), [LinkedIn](https://www.linkedin.com/in/nas-vurgun-36b826265/)
-- ⚡ Fun fact: I am a medical doctor.
 
 <!--
 **vurg/vurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
